@@ -8,3 +8,5 @@ https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/
 - Day 2: Happy Number
 - Day 3: Maximum Subarray
 - Day 4: Move Zeroes
+- Day 5: Best Time to Buy and Sell Stock II
+- Day 6: Group Anagrams
