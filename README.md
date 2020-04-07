@@ -10,3 +10,4 @@ https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/
 - Day 4: Move Zeroes
 - Day 5: Best Time to Buy and Sell Stock II
 - Day 6: Group Anagrams
+- Day 7: Counting Elements
