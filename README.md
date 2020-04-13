@@ -14,5 +14,10 @@ https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/
 - Day 8: Middle of the Linked List
 - Day 9: Backspace String Compare
 - Day 10: Min Stack
+- Day 11: Diameter of Binary Tree
+- Day 12: Last Stone Weight
+- Day 13: Contiguous Array
+
+
 
 
