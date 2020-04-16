@@ -17,6 +17,11 @@ https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/
 - Day 11: Diameter of Binary Tree
 - Day 12: Last Stone Weight
 - Day 13: Contiguous Array
+- Day 14: Perform String Shifts
+- Day 15: Product of Array Except Self
+- Day 16: Valid Parenthesis String
+
+
 
 
 
