@@ -20,6 +20,13 @@ https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/
 - Day 14: Perform String Shifts
 - Day 15: Product of Array Except Self
 - Day 16: Valid Parenthesis String
+- Day 17: Number of Islands
+- Day 18: Minimum Path Sum
+- Day 19: Search in Rotated Sorted Array
+- Day 20: Construct Binary Search Tree from Preorder Traversal
+
+
+
 
 
 
