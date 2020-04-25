@@ -24,6 +24,14 @@ https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/
 - Day 18: Minimum Path Sum
 - Day 19: Search in Rotated Sorted Array
 - Day 20: Construct Binary Search Tree from Preorder Traversal
+- Day 21: Leftmost Column with at Least a One
+- Day 22: Subarray Sum Equals K
+- Day 23: Bitwise AND of Numbers Range
+- Day 24: LRU Cache
+- Day 25: Jump Game
+
+
+
 
 
 
