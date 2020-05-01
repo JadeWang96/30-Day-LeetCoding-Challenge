@@ -29,6 +29,11 @@ https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/
 - Day 23: Bitwise AND of Numbers Range
 - Day 24: LRU Cache
 - Day 25: Jump Game
+- Day 26: Longest Common Subsequence
+- Day 27: Maximal Square
+- Day 28: First Unique Number
+- Day 29: Binary Tree Maximum Path Sum
+
 
 
 
