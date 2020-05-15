@@ -41,6 +41,27 @@ I guess no one expects pandemic lasts so long and how bad it is :(\
 https://leetcode.com/explore/featured/card/may-leetcoding-challenge/
 - Day 1: First Bad Version
 - Day 2: Jewels and Stones
+- Day 3: Ransom Note
+- Day 4: Number Complement
+- Day 5: First Unique Character in a String
+- Day 6: Majority Element
+- Day 7: Cousins in Binary Tree
+- Day 8: Check If It Is a Straight Line
+- Day 9: Valid Perfect Square
+- Day 10: Find the Town Judge
+- Day 11: Flood Fill
+- Day 12: Single Element in a Sorted Array
+- Day 13: Remove K Digits
+- Day 14: Implement Trie (Prefix Tree)
+
+
+
+
+
+
+
+
+
 
 
 
